@@ -8,4 +8,4 @@ Deployed at: [https://react-todo-listt.netlify.app/](https://react-todo-listt.ne
 
 Feel free to create an issue regarding any suggestion/anti-patterns.
 
-Updated
+Update
